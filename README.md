@@ -27,5 +27,5 @@
 
 ## 📫 联系我
 - GitHub: [LifeAurora](https://github.com/LifeAurora)  
-- Email: 你的邮箱
+- Email: wenjie64@163.com
 
